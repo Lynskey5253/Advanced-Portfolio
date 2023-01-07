@@ -191,6 +191,7 @@ Landing Page
     transform: translate(-50%, -50%);
     max-width: 1000px;
     width: 100%;
+    padding: 0 30px;
 }
 
 .header__para{
@@ -286,6 +287,7 @@ nav{
     max-width: 1200px;
     margin: 0 auto;
     height: 100px;
+    padding: 0 20px;
 }
 
 #personal-logo{
