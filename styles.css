@@ -90,7 +90,7 @@ label{
 }
 
 .title{
-    font-size: 120px;
+    font-size: 100px;
     margin-bottom: 12px;
     text-align: left;
     line-height: 1;
@@ -678,11 +678,6 @@ footer {
     top: 80vh;
     left: 80vw;
 }
-  
- 
-
-
-
 
 
   .footer__logo--popper {
@@ -704,6 +699,7 @@ footer {
     opacity: 1;
   }
   
+
   /* Small phones, tablets, large smart phones */
   @media (max-width: 768px) {
     .title {
@@ -752,6 +748,11 @@ footer {
     .modal__half {
       padding: 40px;
     }
+
+    .shape{
+      visibility: hidden;
+    }
+
   }
 
 
